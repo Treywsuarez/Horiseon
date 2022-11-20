@@ -22,3 +22,6 @@ N/A
 
 ## URL
 https://treywsuarez.github.io/Horiseon/
+
+## Image of Horiseon webiste
+![01-html-css-git-challenge-demo](https://user-images.githubusercontent.com/116016239/202932579-2f8f1064-c0ba-4d27-9aa0-2f890a52cc46.png)
